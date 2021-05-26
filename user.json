@@ -1,0 +1,19 @@
+{
+  "usuarios": [
+    {
+      "nome": "Paulo Daniel",
+      "site": "www.primeitoacesso",
+      "user_id": 1
+    },
+    {
+      "nome": "Deodato",
+      "site": "www.segundoacesso.com",
+      "user_id": 2
+    },
+    {
+      "nome": "Luiza",
+      "site": "www.segundoacesso.com",
+      "user_id": 3
+    }
+  ]
+}
